@@ -566,6 +566,7 @@ third_party_libraries:
       js: "https://cdn.jsdelivr.net/npm/pseudocode@{{version}}/build/pseudocode.min.js"
     version: "2.4.1"
   spotlight:
+    enabled: true
     integrity:
       css: "sha256-Dsvkx8BU8ntk9Iv+4sCkgHRynYSQQFP6gJfBN5STFLY="
     url:
