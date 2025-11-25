@@ -446,6 +446,20 @@ ninja.data = [{
           window.open("mailto:%68%61%65%73%65%75%6E%67%6A%65%6F%6E@%65%77%68%61.%61%63.%6B%72", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/JeonHaeseung", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/haeseung-jeon", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
