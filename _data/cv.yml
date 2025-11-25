@@ -2,11 +2,23 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Catherine Hae Seung Jeon
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th April 2001
     - name: Languages
       value: English, German
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
 
 - title: Education
   type: time_table
@@ -78,18 +90,6 @@
     - year: 2029
       items:
         - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Other Interests
   type: list
