@@ -16,3 +16,6 @@ _news/announcement_2.md
 _pages/about_einstein.md
 _pages/about.md
 assets/json/resume.json
+_config.yml
+_includes/head.liquid
+_layouts/about.liquid
