@@ -72,7 +72,7 @@
       "startDate": "2024-09-01",
       "endDate": "2026-08-30",
       "score": "10",
-      "courses": ["GPA: overall 4.25/4.30, CS-only 4.25/4.30"]
+      "courses": ["GPA: overall 4.25/4.30, CS-only: 4.25/4.30"]
     },
     {
       "institution": "Ewha Womans University",
@@ -94,7 +94,7 @@
       "startDate": "2024-09-01",
       "endDate": "",
       "summary": "",
-      "highlights": ["Proposed a robust few-shot learning model with an LLM-inspired component (pre-norm, RMSNorm) and a window-based heterogeneous augmentation method in collaboration with RIT. Outperformed previous SOTA, a SimCLR-based contrastive learning model, by up to 12% across n-shot, concept drift, and open-set recognition tasks without large-scale pre-training.", "Leading advanced time-series embedding model development, such as metric learning models and FENs in collaboration with the University of Edinburgh and the U.S. NRL."]
+      "highlights": ["Proposed a robust few-shot learning model with an LLM-inspired component (pre-norm, RMSNorm) and a window-based heterogeneous augmentation method in collaboration with RIT. Outperformed previous SOTA, a SimCLR-based contrastive learning model, by up to 12% across n-shot, concept drift, and open-set recognition tasks without large-scale pre-training.", "Leading advanced time-series embedding model development, such as metric learning models and FENs in collaboration with the University of Edinburgh and the U.S. NRL"]
     },
     {
       "name": "Purdue University | Sensor, Electro-Acoustics Technology Lab",
@@ -121,7 +121,7 @@
       "startDate": "2023-01-01",
       "endDate": "2024-08-30",
       "summary": "",
-      "highlights": ["Led research on the first DL-based fingerprinting model for network traffic, achieving a 41–55% improvement over a previous SOTA. Built a Selenium crawler to collect 300K+ fresh samples, profiled unique data patterns, and benchmarked ML baselines (Random Forest and SVM).", "Earned a Master’s position from the advisor for excellence in leadership and research skill."]
+      "highlights": ["Led research on the first DL-based fingerprinting model for network traffic, achieving a 41-55% improvement over a previous SOTA. Built a Selenium crawler to collect 300K+ fresh samples, profiled unique data patterns, and benchmarked ML baselines (Random Forest and SVM)."]
     }
   ],
   "industry experience": [
