@@ -130,7 +130,7 @@
       "startDate": "2023-03-01",
       "endDate": "2023-06-30",
       "summary": "",
-      "highlights": ["Implemented a Golang monitoring agent and E2E pipeline that collects, stores, and visualizes real-time metrics from AWS infrastructure by utilizing InfluxDB and Grafana. Deployed agents to 10+ client servers, ensuring software reliability through stress testing.", "Obtained a job offer from the supervisor for strong problem-solving skills and work ethic."]
+      "highlights": ["Implemented a Golang monitoring agent and E2E pipeline that collects, stores, and visualizes real-time metrics from AWS infrastructure by utilizing InfluxDB and Grafana. Deployed agents to 10+ client servers, ensuring software reliability through stress testing."]
     }
   ],
   "awards": [
