@@ -41,7 +41,7 @@ Broadly, I'm dedicated to **advancing AI agents that can address real-world chal
 
 (2) Building **_efficient_** systems that reduce the computational and data requirements. In an era where AI technologies are rapidly scaling up, we often face substantial memory, compute, and data costs, which form a major bottleneck to the accessibility of AI. We can address this problem across the entire AI stack and pipeline, from hardware to software and from dataset construction to model inference. In this line of work, I have explored techniques such as continual learning, generative replay, few-shot learning, and data-efficient learning methods, and have published multiple papers.
 
-Building on my background, I am currently deeply interested in (1) developing **versatile and robust models that can continuously learn and understand the physical world**, and (2) designing **efficient models that can simulate complex problems in science and real-world applications**.
+Building on my background, I am currently deeply interested in (1) developing **versatile and robust models that can continuously learn**, and (2) designing **efficient models that can simulate complex problems in science or physical world**.
 
 ### A few moments of my life! 👩‍🎓 🏃‍♀️
 <div class="slider-container" style="padding-top: 10px; padding-bottom: 25px; padding-left: 8px; padding-right: 8px;">
