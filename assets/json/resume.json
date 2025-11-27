@@ -27,10 +27,9 @@
       "name": "Robust Deep Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Data Augmentation",
         "Noise Robustness",
         "Out-of-distribution Robustness",
-        "Normalization"
+        "Data Augmentation"
       ]
     },
     {
@@ -38,7 +37,6 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Continual Learning",
-        "Generative Replay",
         "Few-shot Learning",
         "Data-Efficient Learning"
       ]
@@ -53,12 +51,12 @@
       ]
     },
     {
-      "name": "Real-World AI Applications",
+      "name": "AI for Social Good",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "AI for Healthcare",
         "AI for Science",
-        "AI for Privacy and Security"
+        "AI for Security"
       ]
     }
   ],
@@ -72,7 +70,7 @@
       "startDate": "2024-09-01",
       "endDate": "2026-08-30",
       "score": "10",
-      "courses": ["GPA: overall 4.25/4.30, CS-only: 4.25/4.30"]
+      "courses": ["GPA: overall 4.25/4.30"]
     },
     {
       "institution": "Ewha Womans University",
@@ -83,7 +81,7 @@
       "startDate": "2020-03-01",
       "endDate": "2024-08-30",
       "score": "10",
-      "courses": ["GPA: overall 4.15/4.30, CS-only: 4.16/4.30"]
+      "courses": ["GPA: overall 4.15/4.30"]
     }
   ],
   "research experience": [
@@ -94,7 +92,7 @@
       "startDate": "2024-09-01",
       "endDate": "",
       "summary": "",
-      "highlights": ["Proposed a robust few-shot learning model with an LLM-inspired component (pre-norm, RMSNorm) and a window-based heterogeneous augmentation method in collaboration with RIT. Outperformed previous SOTA, a SimCLR-based contrastive learning model, by up to 12% across n-shot, concept drift, and open-set recognition tasks without large-scale pre-training.", "Leading advanced time-series embedding model development, such as metric learning models and FENs in collaboration with the University of Edinburgh and the U.S. NRL"]
+      "highlights": ["Proposed a robust few-shot learning model with an LLM-inspired component (pre-norm, RMSNorm) and a window-based heterogeneous augmentation method in collaboration with RIT. Outperformed previous SOTA, a SimCLR-based contrastive learning model, by up to 12% across n-shot, concept drift, and open-set recognition tasks without large-scale pre-training.", "Leading advanced time-series embedding model development, such as metric learning models and FENs, in collaboration with the University of Edinburgh and the U.S. NRL."]
     },
     {
       "name": "Purdue University | Sensor, Electro-Acoustics Technology Lab",
@@ -103,7 +101,7 @@
       "startDate": "2025-05-25",
       "endDate": "",
       "summary": "",
-      "highlights": ["Directed the development of a speech clarity prediction model for speech-in-noise signals to support hearing aid users. Suggested and implemented a fine-tuning ASR model with masked transcription and training E2E Transformer model with clarity prediction task.", "Enhanced the CNN acoustic load prediction model that uses a speaker impedance as a feature. Achieved near-perfect accuracy across four different speakers, demonstrating the potential of DL as an effective and efficient diagnostic tool."]
+      "highlights": ["Directed the development of a speech clarity prediction model for speech-in-noise signals to support hearing aid users. Suggested and implemented fine-tuning an ASR model with masked transcription and training an E2E Transformer model for a clarity prediction task.", "Enhanced the CNN acoustic load prediction model that uses a speaker impedance as a feature. Achieved near-perfect accuracy across four different speakers, demonstrating the potential of DL as an effective and efficient diagnostic tool."]
     },
     {
       "name": "UTEP | Intelligent and Quantum Secure Advanced Cyber Defense Lab",
@@ -121,7 +119,7 @@
       "startDate": "2023-01-01",
       "endDate": "2024-08-30",
       "summary": "",
-      "highlights": ["Led research on the first DL-based fingerprinting model for network traffic, achieving a 41-55% improvement over a previous SOTA. Built a Selenium crawler to collect 300K+ fresh samples, profiled unique data patterns, and benchmarked ML baselines (Random Forest and SVM)."]
+      "highlights": ["Led research on the first DL-based fingerprinting model for network traffic, achieving a 41-55% improvement over a previous SOTA. Built a Selenium crawler to collect 300K+ fresh samples over 1+ years, profiled unique data patterns, and benchmarked ML baselines (Random Forest and SVM) on the new datasets."]
     }
   ],
   "industry experience": [
