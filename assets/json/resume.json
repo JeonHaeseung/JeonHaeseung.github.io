@@ -101,7 +101,7 @@
       "startDate": "2025-05-25",
       "endDate": "",
       "summary": "",
-      "highlights": ["Directed the development of a speech clarity prediction model for speech-in-noise signals to support hearing aid users. Suggested and implemented fine-tuning an ASR model with masked transcription and training an E2E Transformer model for a clarity prediction task.", "Enhanced the CNN acoustic load prediction model that uses a speaker impedance as a feature. Achieved near-perfect accuracy across four different speakers, demonstrating the potential of DL as an effective and efficient diagnostic tool."]
+      "highlights": ["Directed the development of a speech clarity prediction model to support hearing aid users. Suggested a two-phase model by fine-tuning an ASR backbone on speech-in-noise audio and masked text to simulate inaudibility, and stacking Transformer encoders for clarity prediction.", "Enhanced the CNN acoustic load prediction model that uses a speaker impedance as a feature. Achieved near-perfect accuracy across four different speakers, demonstrating the potential of DL as an effective and efficient diagnostic tool."]
     },
     {
       "name": "UTEP | Intelligent and Quantum Secure Advanced Cyber Defense Lab",
