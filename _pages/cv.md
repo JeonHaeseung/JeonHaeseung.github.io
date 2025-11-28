@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: Resume_251127_v3.pdf # you can also use external links here
+cv_pdf: Resume.pdf # you can also use external links here
 description: The PDF will be easier to read. For the publications, check PDF or "Publications" menu.
 toc:
   sidebar: left
