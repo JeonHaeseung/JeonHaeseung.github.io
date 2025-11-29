@@ -33,7 +33,7 @@ latest_posts:
 ---
 
 ### Hello! Catherine Jeon here. 👋
-I am a 2nd-year graduate student at Ewha Womans University in Seoul, pursuing a Master's degree in Computer Science and Engineering. Currently, I work as a graduate research assistant under the supervision of [Prof. S.E. Oh](https://sites.google.com/view/ewha-aisec/), and as a part-time graduate research assistant with [Prof. N. Kim](https://www.noorikim.com/bio) at Purdue University. Previously, I worked as an undergraduate research assistant with [Prof. S.E. Oh](https://sites.google.com/view/ewha-aisec/) at Ewha Womans University and as a graduate research assistant with [Prof. M.S. Rahman](https://iqseclab.rahmanmsaidur.com) at the University of Texas at El Paso.
+I am a 2nd-year graduate student at Ewha Womans University in Seoul, pursuing a Master's degree in Computer Science and Engineering. Currently, I work as a graduate research assistant under the supervision of [Prof. S.E. Oh](https://sites.google.com/view/ewha-aisec/), and as a part-time researcher with [Prof. N. Kim](https://www.noorikim.com/bio) at Purdue University. Previously, I worked as an undergraduate research assistant with [Prof. S.E. Oh](https://sites.google.com/view/ewha-aisec/) at Ewha Womans University and as a visiting researcher with [Prof. M.S. Rahman](https://iqseclab.rahmanmsaidur.com) at the University of Texas at El Paso.
 
 Broadly, I'm dedicated to **advancing AI agents that can address real-world challenges and ultimately enhance human life**. To achieve this goal, I focus on two core missions:
 
