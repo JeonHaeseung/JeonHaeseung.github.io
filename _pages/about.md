@@ -54,6 +54,9 @@ Building on my background, I am currently deeply interested in (1) developing (1
             <li data-target="#demo" data-slide-to="2"></li>
             <li data-target="#demo" data-slide-to="3"></li>
             <li data-target="#demo" data-slide-to="4"></li>
+            <li data-target="#demo" data-slide-to="5"></li>
+            <li data-target="#demo" data-slide-to="6"></li>
+            <li data-target="#demo" data-slide-to="7"></li>
         </ol>
 
         <!-- The slideshow -->
@@ -81,6 +84,21 @@ Building on my background, I am currently deeply interested in (1) developing (1
 
             <div class="carousel-item">
               <img src="/assets/img/slide5.jpg"
+                   class="d-block img-fluid">
+            </div>
+
+            <div class="carousel-item">
+              <img src="/assets/img/slide6.jpg"
+                   class="d-block img-fluid">
+            </div>
+
+            <div class="carousel-item">
+              <img src="/assets/img/slide7.jpg"
+                   class="d-block img-fluid">
+            </div>
+
+            <div class="carousel-item">
+              <img src="/assets/img/slide8.jpg"
                    class="d-block img-fluid">
             </div>
 
