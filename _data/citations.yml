@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-11-26'
+  last_updated: '2025-12-19'
 papers:
   kMrf_jAAAAAJ:d1gkVwhDpl0C:
     citations: 0
@@ -10,6 +10,6 @@ papers:
     title: "Tor \uB124\uD2B8\uC6CC\uD06C\uC5D0\uC11C\uC758 \uB525\uB7EC\uB2DD \uBAA8\uB378\uC744 \uD65C\uC6A9\uD55C \uD0A4\uC6CC\uB4DC \uD551\uAC70\uD504\uB9B0\uD305 \uACF5\uACA9\uAE30\uBC95"
     year: '2024'
   kMrf_jAAAAAJ:u5HHmVD_uO8C:
-    citations: 0
+    citations: 1
     title: 'Enhancing Search Privacy on Tor: Advanced Deep Keyword Fingerprinting Attacks and BurstGuard Defense'
     year: '2025'
