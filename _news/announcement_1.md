@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented a first-authored paper at the 20th ACM Asia Conference on Computer and Communications Security
+Presented a first-authored paper at the 20th ACM Asia Conference on Computer and Communications Security.
