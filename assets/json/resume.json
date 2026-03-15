@@ -86,22 +86,31 @@
   ],
   "research experience": [
     {
+      "name": "Purdue University | Sensor, Electro-Acoustics Technology Lab",
+      "position": "Visiting Researcher",
+      "url": "https://www.noorikim.com/bio",
+      "startDate": "2026-01-15",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Building a physical basis prediction model based on electrical-mechanical coupling, utilizing impedance-based sensing data from electroacoustic edge devices."]
+    },
+    {
       "name": "Ewha Womans University | AI Security Lab",
       "position": "Graduate Research Assistant",
       "url": "https://sites.google.com/view/ewha-aisec/",
       "startDate": "2024-09-01",
       "endDate": "",
       "summary": "",
-      "highlights": ["Proposed a robust few-shot learning model with an LLM-inspired component (pre-norm, RMSNorm) and a window-based heterogeneous augmentation method in collaboration with RIT. Outperformed previous SOTA, a SimCLR-based contrastive learning model, by up to 12% across n-shot, concept drift, and open-set recognition tasks without large-scale pre-training.", "Leading advanced time-series embedding model development, such as metric learning models and FENs, in collaboration with the University of Edinburgh and the U.S. NRL."]
+      "highlights": ["Proposed a robust few-shot model using LLM-inspired normalization (pre-norm, RMSNorm) and dynamic window-based augmentation, achieving up to 9% gains over SimCLR-based SOTA across few-shot, concept drift, and open-set settings without large-scale pre-training.", "Leading advanced time-series embedding model development utilizing metric learning models and FENs in collaboration with the University of Edinburgh and the U.S. NRL."]
     },
     {
       "name": "Purdue University | Sensor, Electro-Acoustics Technology Lab",
       "position": "Part-Time Researcher",
       "url": "https://www.noorikim.com/bio",
       "startDate": "2025-05-25",
-      "endDate": "",
+      "endDate": "2026-01-14",
       "summary": "",
-      "highlights": ["Directed the development of a speech clarity prediction model to support hearing aid users. Suggested a two-phase model by fine-tuning an ASR backbone on speech-in-noise audio and masked text to simulate inaudibility, and stacking Transformer encoders for clarity prediction.", "Enhanced the CNN acoustic load prediction model that uses a speaker impedance as a feature. Achieved near-perfect accuracy across four different speakers, demonstrating the potential of DL as an effective and efficient diagnostic tool."]
+      "highlights": ["Directed Transformer-based speech clarity prediction model development to support hearing aid users. Suggested fine-tuning an ASR backbone with speech-in-noise audio and masked transcription for inaudibility simulation, and achieved 5th place in the challenge."]
     },
     {
       "name": "UTEP | Intelligent and Quantum Secure Advanced Cyber Defense Lab",
@@ -110,7 +119,7 @@
       "startDate": "2025-06-28",
       "endDate": "2025-08-28",
       "summary": "",
-      "highlights": ["Built a continual learning (CL) framework with a conditional tabular GAN and improved storage/training efficiency by generative replay (GR). Drove experiments and achieved up to 16% improvements over the baselines (GAN and TVAE) in Class-IL/Time-IL scenarios."]
+      "highlights": ["Built a continual learning framework with a conditional tabular GAN and improved storage/training efficiency by generative replay. Drove experiments and achieved up to 16% improvements over the baselines (GAN and TVAE) in Class-IL/Time-IL scenarios."]
     },
     {
       "name": "Ewha Womans University | AI Security Lab",
@@ -119,7 +128,7 @@
       "startDate": "2023-01-01",
       "endDate": "2024-08-30",
       "summary": "",
-      "highlights": ["Led research on the first DL-based fingerprinting model for network traffic, achieving a 41-55% improvement over a previous SOTA. Built a Selenium crawler to collect 300K+ fresh samples over 1+ years, profiled unique data patterns, and benchmarked ML baselines (Random Forest and SVM) on the new datasets."]
+      "highlights": ["Led research on the first DL-based network traffic fingerprinting model, achieving a 41-55% gains over a previous SOTA. Built a Selenium crawler to collect 300K+ fresh samples over 1+ years, profiled unique data patterns, and benchmarked ML/DL baselines on a new dataset."]
     }
   ],
   "industry experience": [
@@ -130,7 +139,7 @@
       "startDate": "2023-03-01",
       "endDate": "2023-06-30",
       "summary": "",
-      "highlights": ["Implemented a Golang monitoring agent and E2E pipeline that collects, stores, and visualizes real-time metrics from AWS infrastructure by utilizing InfluxDB and Grafana. Deployed agents to 10+ client servers, ensuring software reliability through stress testing."]
+      "highlights": ["Implemented a Golang monitoring agent and E2E pipeline that collects, stores, and visualizes real-time metrics from AWS infrastructure by utilizing InfluxDB and Grafana. Deployed agents to 10+ client servers, ensuring software reliability through stress tests."]
     }
   ],
   "awards": [
