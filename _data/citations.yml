@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2025-12-19'
+  last_updated: '2026-04-13'
 papers:
   kMrf_jAAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Domain-Adapted Automatic Speech Recognition with Deep Neural Networks for Enhanced Speech Intelligibility Prediction
     year: '2025'
+  kMrf_jAAAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: 'Speakers as sensors: Machine learning-based earphone impedance analysis for ear canal insertion depth prediction'
+    year: '2026'
   kMrf_jAAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: "Tor \uB124\uD2B8\uC6CC\uD06C\uC5D0\uC11C\uC758 \uB525\uB7EC\uB2DD \uBAA8\uB378\uC744 \uD65C\uC6A9\uD55C \uD0A4\uC6CC\uB4DC \uD551\uAC70\uD504\uB9B0\uD305 \uACF5\uACA9\uAE30\uBC95"
