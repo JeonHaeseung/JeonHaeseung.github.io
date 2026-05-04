@@ -1,6 +1,14 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-04'
 papers:
+  kMrf_jAAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Impedance-Based Acoustic Load Inference Using Intelligent Speaker Sensors
+    year: '2026'
+  kMrf_jAAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: 'RoFiRe: Robust Website Fingerprinting on Real-World Tor Traffic via Improved Augmentation and Normalization'
+    year: '2026'
   kMrf_jAAAAAJ:d1gkVwhDpl0C:
     citations: 1
     title: Domain-Adapted Automatic Speech Recognition with Deep Neural Networks for Enhanced Speech Intelligibility Prediction
