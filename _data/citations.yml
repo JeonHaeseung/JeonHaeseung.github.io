@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-06-29'
 papers:
   kMrf_jAAAAAJ:IjCSPb-OGe4C:
     citations: 0
@@ -25,3 +25,7 @@ papers:
     citations: 1
     title: 'Enhancing Search Privacy on Tor: Advanced Deep Keyword Fingerprinting Attacks and BurstGuard Defense'
     year: '2025'
+  kMrf_jAAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: 'TabCL: Continual Malware Classification with Tabular-Aware Generation'
+    year: '2026'
