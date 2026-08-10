@@ -1,2 +1,0 @@
-### Hello! Catherine Jeon here. 👋
-I am a 2nd-year Graduate Student at Ewha Womans University in Seoul, pursuing a Masters in Computer Science and Engineering. I worked as an undergraduate research assistant with [Prof. S.E. Oh](https://sites.google.com/view/ewha-aisec/) at Ewha Womans University and as a graduate research assistant with [Prof. M.S. Rahman](https://iqseclab.rahmanmsaidur.com) at the University of Texas at El Paso. Currently, I am also working with [Prof. N. Kim](https://www.noorikim.com/bio) at Purdue University as a graduate research assistant.

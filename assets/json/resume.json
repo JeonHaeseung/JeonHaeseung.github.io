@@ -24,39 +24,23 @@
   },
   "interests": [
     {
-      "name": "Robust Deep Learning",
+      "name": "AI for Real-World Applications",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Noise Robustness",
-        "Out-of-distribution Robustness",
-        "Data Augmentation"
-      ]
-    },
-    {
-      "name": "Efficient Deep Learning",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Continual Learning",
-        "Few-shot Learning",
-        "Data-Efficient Learning"
-      ]
-    },
-    {
-      "name": "Representation Learning",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Contrastive Learning",
-        "Metric Learning",
-        "Feature Embedding Networks"
-      ]
-    },
-    {
-      "name": "AI for Social Good",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
+        "AI for Security",
         "AI for Healthcare",
-        "AI for Science",
-        "AI for Security"
+        "AI for Network Analysis",
+        "Trustworthy AI"
+      ]
+    },
+    {
+      "name": "AI Generalization and Robustness",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "n-shot Learning",
+        "Continual Learning",
+        "Metric Learning",
+        "Data Augmentation"
       ]
     }
   ],
