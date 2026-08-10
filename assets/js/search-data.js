@@ -459,11 +459,18 @@ ninja.data = [{
           window.open("/assets/pdf/Resume.pdf", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%61%65%73%65%75%6E%67%6A%65%6F%6E@%65%77%68%61.%61%63.%6B%72", "_blank");
+          window.open("https://scholar.google.com/citations?user=kMrf_jAAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0006-7019-9010", "_blank");
         },
       },{
         id: 'social-github',
@@ -480,11 +487,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/haeseung-jeon", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=kMrf_jAAAAAJ", "_blank");
+          window.open("mailto:%68%61%65%73%65%75%6E%67%6A%65%6F%6E@%65%77%68%61.%61%63.%6B%72", "_blank");
         },
       },{
       id: 'light-theme',
