@@ -33,17 +33,11 @@ latest_posts:
 ---
 
 ### Hello! Catherine Jeon here. 👋
-I am a 2nd-year graduate student at Ewha Womans University in Seoul, pursuing a Master's degree in Computer Science and Engineering. Currently, I work as a graduate research assistant under the supervision of [Prof. S.E. Oh](https://sites.google.com/view/ewha-aisec/), and as a part-time researcher with [Prof. N. Kim](https://www.noorikim.com/bio) at Purdue University. Previously, I worked as an undergraduate research assistant with [Prof. S.E. Oh](https://sites.google.com/view/ewha-aisec/) at Ewha Womans University and as a visiting researcher with [Prof. M.S. Rahman](https://iqseclab.rahmanmsaidur.com) at the University of Texas at El Paso.
+I am a 1st-year PhD student in Computer Science working in the [SAND (Security, Algorithms, Networking and Data) Lab](https://sandlab.cs.uchicago.edu/), co-advised by [Prof. Ben Zhao](https://people.cs.uchicago.edu/~ravenben/) and [Prof. Heather Zheng](https://people.cs.uchicago.edu/~htzheng/). Before joining the University of Chicago, I received my B.S. and M.S. in Computer Science and Engineering at Ewha Womans University under the supervision of [Prof. S.E. Oh](https://sites.google.com/view/ewha-aisec/), with a research focus on the intersection of AI and Cybersecurity. Previously, I also worked as a Visiting Scholar with [Prof. N. Kim](https://seat-lab.github.io/) at Purdue University and [Prof. M.S. Rahman](https://iqseclab.rahmanmsaidur.com) at the University of Texas at El Paso. My research interests span Adversarial AI (e.g., anonymous network analysis), AI for security (e.g., malware detection), and AI for Healthcare (e.g., ear health monitoring, electroacoustic). My work has been published in several leading conferences and journals, including ACM CCS, PAKDD, ACM WWW, ACM ASIACCS, IEEE Sensors, and JASA. During my undergraduate and graduate studies, I was awarded scholarships from Huawei and Boeing for academic excellence in computer science.
 
-Broadly, I'm dedicated to **advancing AI agents that can address real-world challenges and ultimately enhance human life**. To achieve this goal, I focus on two core missions:
+My research focuses on (1) understanding real-world security threats introduced or amplified by AI and (2) leveraging AI to defend against such threats. To build a robust and efficient model for security-critical systems, I use methodologies like metric learning, continual learning, generative replay, few-shot learning, and data augmentation.
 
-(1) Developing **_reliable_** agents that remain robust and effective under real-world conditions. It is well known that even frontier models can fail dramatically in noisy, out-of-distribution, or concept-drifted environments. This creates the need for AI agents that are not only effective on benchmark datasets, but also robust and dependable in real-world deployment. To this end, I use methodologies such as contrastive learning, metric learning, feature embedding networks, data augmentation, and normalization.
-
-(2) Building **_practical_** systems that reduce the computational and data requirements while addressing domain-specific problems. In an era where AI technologies are rapidly scaling up, we often face substantial memory, compute, and data costs, which form a major bottleneck to the accessibility of AI. We can address this problem across the entire AI stack and pipeline, from hardware to software and from dataset construction to model inference. In this line of work, I have explored techniques such as continual learning, generative replay, few-shot learning, and data-efficient learning methods, and have published multiple papers.
-
-Building on my background, I am currently deeply interested in (1) developing (1) **developing versatile and robust models** and (2) **designing efficient models that can simulate our complex, physical real-world**.
-
-### A few moments of my life! 👩‍🎓 🏃‍♀️
+### A few moments of my life 👩‍🎓 🏃‍♀️
 <div class="slider-container" style="padding-top: 10px; padding-bottom: 25px; padding-left: 8px; padding-right: 8px;">
     <div id="demo" class="carousel slide" data-ride="carousel">
 
