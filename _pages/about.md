@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ewha Womans University, Seoul, South Korea
+subtitle: CS PhD in University of Chicago
 images:
   slider: true
   lightbox2: true
