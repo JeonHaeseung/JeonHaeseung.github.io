@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-01-13 00:00:00-0000
+date: 2026-04-12 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A first-authored paper is accepted in the top-tier conference, The Web Conference 2026! 🎉
+A first-authored paper has been accepted in the ACM Web Conference 2026 (WWW'26).

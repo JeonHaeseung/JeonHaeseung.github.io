@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-08-10 00:00:00-0000
+date: 2026-06-09 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-Happy to share that my first-authored paper is accepted to CCS 2026.
+A co-authored paper has been accepted to the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD'26).

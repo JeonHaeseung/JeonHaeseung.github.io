@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the AI Security Lab at Ewha Womans University as a graduate student!
+Happy to share that I joined the AI Security Lab at Ewha Womans University as a master's student!

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-03-15 00:00:00-0000
+date: 2026-04-28 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-Three papers are accepted to the ACM WWW, PAKDD, and JASA in 2026 so far 😎
+Happy to share that two papers were accepted by IEEE Sensors Journal and The Journal of the Acoustical Society of America in collaboration with the SEAT Lab at Purdue University.
