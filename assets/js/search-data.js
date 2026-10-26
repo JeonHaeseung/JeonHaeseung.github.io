@@ -493,13 +493,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/haeseung-jeon", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%68%61%65%73%65%75%6E%67%6A%65%6F%6E@%65%77%68%61.%61%63.%6B%72", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
